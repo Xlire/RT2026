@@ -1,0 +1,9 @@
+﻿<Solution>
+  <Project Path="Scripts.csproj" />
+  <Project Path="ScriptsEditor.csproj" />
+  <Project Path="PlayModeTests.csproj" />
+  <Project Path="InputSystem.csproj" />
+  <Project Path="ForstEditorScripts.csproj" />
+  <Project Path="EditModeTests.csproj" />
+  <Project Path="Editor.csproj" />
+</Solution>

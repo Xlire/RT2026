@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+      "editorconfig.editorconfig",
+      "ms-dotnettools.csdevkit",
+      "ms-dotnettools.csharp",
+      "ms-dotnettools.vscode-dotnet-runtime",
+      "ms-dotnettools.vscodeintellicode-csharp",
+      "visualstudiotoolsforunity.vstuc"
+    ]
+}
